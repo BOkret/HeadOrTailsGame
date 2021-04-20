@@ -1,0 +1,1 @@
+Head or tails game, simple rules. Bet obverse or reverse and check if you had enought luck to win.
